@@ -1,5 +1,6 @@
 package com.meteordevelopments.duels;
 
+
 import com.google.common.collect.Lists;
 import com.meteordevelopments.duels.command.commands.party.PartyCommand;
 import com.meteordevelopments.duels.listeners.*;
